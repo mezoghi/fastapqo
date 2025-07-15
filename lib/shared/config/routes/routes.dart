@@ -1,6 +1,8 @@
 enum AppRoute {
   root,
   login,
+  splash,
+  home,
 }
 
 extension AppPageExtension on AppRoute {
